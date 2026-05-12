@@ -8,7 +8,7 @@ class TournamentConfig
     // 可配置参数
     public PayoffMatrix customMatrix = PayoffMatrix.normal;
     public int Rounds { get; set; } = 1000;
-    //要加入的玩家
+    //要加入的组
     public StrategyCategory[] Groups { get; set; } =
     [
         //StrategyCategory.Default
@@ -47,7 +47,7 @@ class Program
 
         Console.WriteLine("Welcome to the Prisoner's Dilemma Tournament!");
 
-        // 配置参数集中管理
+        // 配置参数
         var config = new TournamentConfig();
         // 创建并配置 tournament
         Tournament tournament = CreateTournament(config);
