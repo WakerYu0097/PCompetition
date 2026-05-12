@@ -1,0 +1,14 @@
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\bin\Debug\net10.0\PCompetition.deps.json
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\bin\Debug\net10.0\PCompetition.dll
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\bin\Debug\net10.0\PCompetition.pdb
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.AssemblyInfoInputs.cache
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.AssemblyInfo.cs
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.csproj.CoreCompileInputs.cache
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.dll
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\refint\PCompetition.dll
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.pdb
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\ref\PCompetition.dll
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\bin\Debug\net10.0\PCompetition.exe
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\bin\Debug\net10.0\PCompetition.runtimeconfig.json
+E:\Main\File\Code\C#\Game thoery\Prisoner\PCompetition\obj\Debug\net10.0\PCompetition.genruntimeconfig.cache
